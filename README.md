@@ -13,3 +13,5 @@ Make Luogu Gugu
 //So this should be refixed.
 
 //I'll try to fix it in late Oct. 
+
+//Tested on CodeVS,Available.
