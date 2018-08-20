@@ -9,5 +9,7 @@ Make Luogu Gugu
 3.Goto step 1 and do it again.
 
 //Update : It seems that Luogu used another server.
+
 //So this should be refixed.
+
 //I'll try to fix it in late Oct. 
