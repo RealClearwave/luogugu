@@ -22,3 +22,6 @@ Make Luogu Gugu
 
 //If We Have a lot of accounts,it may work?
 
+//Can we use 10Min Mail to generate a lot of accounts
+
+//And Submit?Emm...
