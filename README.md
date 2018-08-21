@@ -8,10 +8,17 @@ Make Luogu Gugu
 
 3.Goto step 1 and do it again.
 
-//Update : It seems that Luogu used another server.
+//Update 8.20: It seems that Luogu used another server.
 
 //So this should be refixed.
 
 //I'll try to fix it in late Oct. 
 
 //Tested on CodeVS,Available.
+
+//Update 8.21:
+
+//Tested On Luogu,Still Available.
+
+//If We Have a lot of accounts,it may work?
+
